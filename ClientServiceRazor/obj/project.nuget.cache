@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ewYDdbDN8ny//iLl1Fb2sxFs/lMc95+36FVNlSin24nyp0/MGHeE0toA3JMK2sG/9yKsaebuBzpR/ZPTNtERkA==",
+  "dgSpecHash": "SX96MmeEJHw=",
   "success": true,
   "projectFilePath": "D:\\ISTEP\\LeapHubProject\\LeapHub\\back\\ClientServiceRazor\\ClientServiceRazor\\ClientServiceRazor.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\dotnet_home\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.23\\microsoft.entityframeworkcore.abstractions.8.0.23.nupkg.sha512",
     "C:\\dotnet_home\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.23\\microsoft.entityframeworkcore.analyzers.8.0.23.nupkg.sha512",
     "C:\\dotnet_home\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.23\\microsoft.entityframeworkcore.design.8.0.23.nupkg.sha512",
+    "C:\\dotnet_home\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.0\\microsoft.entityframeworkcore.inmemory.8.0.0.nupkg.sha512",
     "C:\\dotnet_home\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.23\\microsoft.entityframeworkcore.relational.8.0.23.nupkg.sha512",
     "C:\\dotnet_home\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\dotnet_home\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.1\\microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
@@ -41,7 +42,14 @@
     "C:\\dotnet_home\\.nuget\\packages\\system.reflection.metadata\\6.0.1\\system.reflection.metadata.6.0.1.nupkg.sha512",
     "C:\\dotnet_home\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\dotnet_home\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
-    "C:\\dotnet_home\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
+    "C:\\dotnet_home\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\dotnet_home\\.nuget\\packages\\xunit\\2.9.3\\xunit.2.9.3.nupkg.sha512",
+    "C:\\dotnet_home\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\dotnet_home\\.nuget\\packages\\xunit.analyzers\\1.18.0\\xunit.analyzers.1.18.0.nupkg.sha512",
+    "C:\\dotnet_home\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
+    "C:\\dotnet_home\\.nuget\\packages\\xunit.core\\2.9.3\\xunit.core.2.9.3.nupkg.sha512",
+    "C:\\dotnet_home\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "C:\\dotnet_home\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512"
   ],
   "logs": []
 }
